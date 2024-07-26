@@ -795,6 +795,15 @@ header {
         height: 295px;
     }
 }
+@media (max-width: 980px) {
+    .box {
+        width: 32%;
+        height:550;
+    }
+     .box-content{
+        height: 380px;
+    }
+}
 
 @media (max-width: 768px) {
     .box {
