@@ -773,9 +773,23 @@ header {
 
 /* media queries for products  */
 
+
+@media (max-width: 1291pxpx) {
+    .box {
+        width: 32%;
+    }
+    .cart{
+      width: 120px;
+      font-size: 1rem;
+}
+}
+
 @media (max-width: 1024px) {
     .box {
         width: 32%;
+    }
+     .box-content{
+        height: 295px;
     }
 }
 
