@@ -212,9 +212,10 @@ header {
 
      .navbar{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         width: 100%;
          height:180px;
+         justify-content: space-evenly;
     }
     
     .E-Com {
