@@ -343,6 +343,9 @@ header {
         flex-wrap: wrap;
        
     }
+    .E-Com {
+       font-size: 15px;
+     }
 
     .nav-links.active {
         display: flex;
