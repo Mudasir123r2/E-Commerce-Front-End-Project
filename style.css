@@ -781,7 +781,10 @@ header {
     .cart{
       width: 120px;
       font-size: 1rem;
-}
+     }
+    .box-content{
+        height:330px;
+    }
 }
 
 @media (max-width: 1024px) {
