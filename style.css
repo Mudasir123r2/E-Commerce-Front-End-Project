@@ -810,10 +810,13 @@ header {
     }
      .box-content{
         height: 380px;
+         
     }
     .cart{
       width: 80px;
-      font-size: 1rem;
+      font-size: 0.7rem;
+        margin-bottom:70px;
+        margin-left:100px;
      }
 }
 
