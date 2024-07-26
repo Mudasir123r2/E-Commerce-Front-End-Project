@@ -198,7 +198,54 @@ header {
 
 
 
+@media (max-width: 1291px){
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        background-color: #000000;
+        position: absolute;
+        top: 70%;
+        left: 130px;
+        width: 200px;
+        padding: 10px;
+    }
+
+     .navbar{
+        display: flex;
+        flex-direction: column;
+        height: 550px;
+        width: 100%;
+    }
+    
+        
+    .nav-links.active {
+        display: flex;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .nav-search {
+        order: 2;
+    }
+
+    .nav-logo {
+        order: 5;
+    }
+
+    .nav-cart {
+        order: 3;
+    }
+}
+
+
+
+
+
+
 /* media queries for laptop */
+
 
 @media (max-width: 1210px){
     .nav-links {
