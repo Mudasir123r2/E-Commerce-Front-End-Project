@@ -265,6 +265,9 @@ header {
     .nav-links.active {
         display: flex;
     }
+    .navbar{
+         height:180px;
+    }
 
     .hamburger {
         display: flex;
