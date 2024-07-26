@@ -198,6 +198,14 @@ header {
 
 
 
+@media (max-width:980) {
+    .E-Com {
+    font-size: 15px;
+}
+
+
+}
+
 @media (max-width: 1291px){
     .nav-links {
         display: none;
