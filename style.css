@@ -213,10 +213,11 @@ header {
      .navbar{
         display: flex;
         flex-direction: column;
-        height: 550px;
         width: 100%;
     }
-    
+    .E-Com {
+       font-size: 20px;
+     }
         
     .nav-links.active {
         display: flex;
@@ -391,7 +392,7 @@ header {
        
     }
     .E-Com {
-       font-size: 15px;
+       font-size: 20px;
      }
 
     .nav-links.active {
